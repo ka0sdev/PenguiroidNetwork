@@ -1,4 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Changelog](changelog.md)
+* [Changelog - Network](changelog.md)
+* [Changelog - Penguiroid](penguiroid.md)
+* [Changelog - Pingubot](pingubot.md)
