@@ -1,3 +1,4 @@
 # Penguiroid Networks Changelog
 
-> Changelog here.
+> [!NOTE]
+> An alert of type 'note' using global style 'callout'.
