@@ -1,3 +1,4 @@
-# Headline
+<!-- docs/_sidebar.md -->
 
-> An awesome project.
+* [Home](/)
+* [Changelog](changelog.md)
