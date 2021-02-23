@@ -1,3 +1,3 @@
-# Penguiroid Networks
+# Penguiroid Networks Documentation
 
 > An awesome project.
